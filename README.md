@@ -4,7 +4,6 @@ nome da equipe/solucao: BlueOCEAN
 Leonardo Felipe Souza Barbosa - RM555986
 Estevam Melo Acosta - RM555124
 Gustavo Moreno Coelho - 556289
-https://leonbarbosa.github.io/gs-project/#home
 
 <!-- TINKERCAD -->
 https://www.tinkercad.com/things/i7Qmlgdgfls-sensor-de-poluicao?sharecode=LyI0g-400Ih7DWsUoIVFEXBvvYS-sxj_SShRe5r8hs8
