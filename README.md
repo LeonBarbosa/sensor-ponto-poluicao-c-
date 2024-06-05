@@ -10,7 +10,7 @@ https://leonbarbosa.github.io/gs-project/#home
 https://www.tinkercad.com/things/i7Qmlgdgfls-sensor-de-poluicao?sharecode=LyI0g-400Ih7DWsUoIVFEXBvvYS-sxj_SShRe5r8hs8
 
 <!-- GITHUB -->
-https://github.com/LeonBarbosa/sensor-ponto-de-poluicao
+https://github.com/LeonBarbosa/sensor-ponto-poluicao-c-.git
 
 Sistema de Monitoramento de Poluição
 
